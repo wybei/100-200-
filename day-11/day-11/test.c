@@ -74,7 +74,7 @@
 //1 1
 //1 2 1
 //1 3 3 1
-#define N 11
+#define N 3
 int main()
 {
 	int i = 0;
